@@ -16,7 +16,7 @@ const loop = setInterval(() => {
     console.log('loop')
     const pipePosition = pipe.offsetLeft;
     const marioPosition = +window.getComputedStyle(mario).bottom.replace('px', '');
-    console.log(marioPosition)
+  
     
     if(pipePosition <= 120 && pipePosition > 0 && marioPosition < 80) {
        
