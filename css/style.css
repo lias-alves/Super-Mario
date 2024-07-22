@@ -21,8 +21,8 @@ body {
 .pipe {
     position: absolute;
     bottom: 0;
-    width: 70px;
-    animation: pipe-animation 1s infinite linear;
+    width: 55px;
+    animation: pipe-animation 1.6s infinite linear;
 }
 
 .mario {
@@ -93,13 +93,13 @@ body {
         bottom: 180px;
     }
     45% {
-        bottom: 180px;
+        bottom: 190px;
     }
     50% {
-        bottom: 180px;
+        bottom: 200px;
     }
     60% {
-        bottom: 180px;
+        bottom: 190px;
     }
     65% {
         bottom: 180px;
