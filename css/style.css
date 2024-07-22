@@ -118,23 +118,3 @@ body {
         right: 100%;
     }
 }
-
-@media (max-width: 1100px){
-    .game-hover {
-        margin-left: 40%;      
-    }
-    
-}
-
-@media (max-width: 500px) {
-    .game-board {
-        height: 900px;
-    }
-    .clouds {
-        margin-top: 200px;
-    }
-    .game-hover {
-        margin-top: 80%;
-    }
-
-}
