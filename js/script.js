@@ -41,4 +41,5 @@ butao.addEventListener('click', function() {
 });
 
 
-document.addEventListener('keydown', jump);   
+document.addEventListener('keydown', jump);  
+document.addEventListener('touchstart', jump); 
